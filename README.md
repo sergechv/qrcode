@@ -41,6 +41,5 @@ But i will continue learning more about Flexbox to be able to build complex proj
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@sergechv](https://www.frontendmentor.io/profile/sergechv)
 
